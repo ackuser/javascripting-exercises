@@ -59,5 +59,5 @@ console.log(pizzaTopings);
 To run my own solutions for all the tasks, it needs to be done
 
 ```
-javascripting verify scope/scope.js
+javascripting verify folder/file.js
 ```
