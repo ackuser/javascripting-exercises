@@ -1,4 +1,4 @@
-# JAVASCRIPTING-EXERCISES
+# JAVASCRIPTING-TASKS
 
 Javascript homeworks from https://github.com/sethvincent/javascripting done by myself. I want to say thanks to them for providing us this kind of tools.
 
